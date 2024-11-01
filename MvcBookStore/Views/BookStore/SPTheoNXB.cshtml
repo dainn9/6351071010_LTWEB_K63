@@ -1,0 +1,41 @@
+﻿@{
+    ViewBag.Title = "SPTheoNXB";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h3 style="text-align:center; color: red;">SÁCH THEO NHÀ XUẤT BẢN</h3>
+<div class="row">
+
+
+    @foreach (var sach in Model)
+    {
+        <div class="col-sm-4 col-lg-4 col-md-4">
+            <div class="img-thumbnail">
+                <a href="@Url.Action("Details", "BookStore", new {id = sach.MaNXB })">
+                    <img src="~/Content/images/HinhSanPham/@sach.Anhbia" alt="@sach." width="101" height="93" />
+                    <div>
+                        <br />
+                        <h4 style="text-align:center; font-size: 16px">
+                            @sach.Tensach
+                        </h4>
+                        <p></p>
+                    </div>
+                </a>
+                <div class="bi">
+                    <p class="float-end">
+                        15 reviews
+                    </p>
+                    <p>
+                        <span class="bi bi-star-fill text-warning"></span>
+                        <span class="bi bi-star-fill text-warning"></span>
+                        <span class="bi bi-star-fill text-warning"></span>
+                        <span class="bi bi-star-fill text-warning"></span>
+                        <span class="bi bi-star-fill text-warning"></span>
+                    </p>
+
+                </div>
+            </div>
+        </div>
+    }
+
+</div>

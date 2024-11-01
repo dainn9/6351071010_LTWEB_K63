@@ -1,0 +1,53 @@
+﻿
+<style type="text/css">
+    #Datmua a{
+        position: absolute;
+        clear: both; background-color: red;
+        color: white; width: 120px; height: 35px;
+       display: block;  text-align: center;
+        padding-top: 10px; text-decoration: none; font-weight: bold;
+        right: 0;
+        bottom: 30%;
+
+    }
+
+    #Datmua a:hover{
+        background-color: gray;
+        color: red;
+    }
+</style>
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h5>THÔNG TIN CHI TIẾT</h5>
+<div style="display: flex;">
+    <div style="width: 40%; border-left: dotted 1px; border-color: azure;">
+        <img src="~/Content/images/HinhSanPham/@Model.Anhbia" width="100%" alt="Alternate Text" />
+    </div>
+    <div style="width: 60%;  padding: 10px">
+        <h6 style="font-weight: bold; color: red;">Tên sách : @Model.Tensach</h6>
+        <p style="text-align: justify">
+            <span style="font-weight: bold;">
+                Mô tả : 
+            </span>
+            @Model.Mota
+        </p>
+        <p style="font-weight: bold;"> Giá bán : 
+            <span style="color: red; font-size: 16px">
+                @Model.Giaban VNĐ
+            </span>
+        </p>
+    </div>
+    <div>
+        <div id="Datmua">
+            <a href="@Url.Action("AddToCard", "ShoppingCard", new {id = @Model.Masach})">
+                ĐẶT MUA
+            </a>
+        </div>
+    </div>
+</div>
+
+

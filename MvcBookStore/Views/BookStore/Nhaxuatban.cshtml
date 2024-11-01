@@ -1,0 +1,8 @@
+﻿
+@model IEnumerable<MvcBookStore.Models.NHAXUATBAN>
+<dt>NHÀ XUẤT BẢN</dt>
+@foreach (var item in Model)
+{
+
+    <dd><a href="@Url.Action("SPTheoNXB", "BookStore", new {id = item.MaNXB})"> @item.TenNXB</a></dd>
+}

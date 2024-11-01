@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>@ViewBag.Title</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="~/Content/css/style.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css" />
+</head>
+<body>
+    <div id="wrapper">
+        <div id="inner">
+            <div id="header">
+                <h1><img src="~/Content/images/logo.gif" width="519" height="63" alt="Online Movie Store" /></h1>
+                <div id="nav" style="display: flex">
+                    <div>
+                        @Html.ActionLink("Home", "Index", "BookStore")
+                        
+                    </div>
+                | <div>view cart</div> |
+                     <div>help</div>
+                </div>
+                <!-- end nav -->
+                <a href="http://all-free-download.com/free-website-templates/"><img src="~/Content/images/header_1.jpg" width="744" height="145" alt="Harry Potter cd" /></a> <a href="http://all-free-download.com/free-website-templates/"><img src="~/Content/images/header_2.jpg" width="745" height="48" alt="" /></a>
+            </div>
+            <!-- end header -->
+            <dl id="browse">
+                @Html.Action("Chude", "BookStore")
+                <br />
+                @Html.Action("Nhaxuatban", "BookStore")
+                <dt>Search Your Favourite Movie</dt>
+                <dd class="searchform">
+                    <form action="http://all-free-download.com/free-website-templates/" method="get">
+                        <div>
+                            <select name="cat">
+                                <option value="-" selected="selected">CATEGORIES</option>
+                                <option value="-">------------</option>
+                            </select>
+                        </div>
+                        <div>
+                            <input name="q" type="text" value="DVD TITLE" class="text" />
+                        </div>
+                        <div class="softright">
+                            <input type="image" src="~/Content/images/btn_search.gif" />
+                        </div>
+                    </form>
+                </dd>
+            </dl>
+            <div>
+                <div>
+
+                @RenderBody()
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div id="footer">
+                Web design by <a href="http://www.freewebsitetemplates.com">free website templates</a> &nbsp;
+                <div id="footnav"> <a href="http://all-free-download.com/free-website-templates/">Legal</a> | <a href="http://all-free-download.com/free-website-templates/">Home</a> </div>
+                <!-- end footnav -->
+            </div>
+            <!-- end footer -->
+        </div>
+        <!-- end inner -->
+    </div>
+    <!-- end wrapper -->
+    <div align=center>
+        This template  downloaded form <a href='http://all-free-download.com/free-website-templates/'>free website templates</a>
+    </div>
+</body>
+</html>

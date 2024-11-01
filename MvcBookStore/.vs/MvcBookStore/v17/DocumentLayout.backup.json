@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BackEnd\\ThucHanh\\MvcBookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0DB62C-2887-4AC1-B493-B366E344A94E}|MvcBookStore.csproj|D:\\BackEnd\\ThucHanh\\MvcBookStore\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FF0DB62C-2887-4AC1-B493-B366E344A94E}|MvcBookStore.csproj|solutionrelative:content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0DB62C-2887-4AC1-B493-B366E344A94E}|MvcBookStore.csproj|d:\\backend\\thuchanh\\mvcbookstore\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0DB62C-2887-4AC1-B493-B366E344A94E}|MvcBookStore.csproj|solutionrelative:views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0DB62C-2887-4AC1-B493-B366E344A94E}|MvcBookStore.csproj|D:\\BackEnd\\ThucHanh\\MvcBookStore\\controllers\\bookstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0DB62C-2887-4AC1-B493-B366E344A94E}|MvcBookStore.csproj|solutionrelative:controllers\\bookstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0DB62C-2887-4AC1-B493-B366E344A94E}|MvcBookStore.csproj|d:\\backend\\thuchanh\\mvcbookstore\\views\\bookstore\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0DB62C-2887-4AC1-B493-B366E344A94E}|MvcBookStore.csproj|solutionrelative:views\\bookstore\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0DB62C-2887-4AC1-B493-B366E344A94E}|MvcBookStore.csproj|d:\\backend\\thuchanh\\mvcbookstore\\views\\bookstore\\sptheochude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0DB62C-2887-4AC1-B493-B366E344A94E}|MvcBookStore.csproj|solutionrelative:views\\bookstore\\sptheochude.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0DB62C-2887-4AC1-B493-B366E344A94E}|MvcBookStore.csproj|d:\\backend\\thuchanh\\mvcbookstore\\views\\bookstore\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0DB62C-2887-4AC1-B493-B366E344A94E}|MvcBookStore.csproj|solutionrelative:views\\bookstore\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0DB62C-2887-4AC1-B493-B366E344A94E}|MvcBookStore.csproj|d:\\backend\\thuchanh\\mvcbookstore\\views\\bookstore\\sptheonxb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF0DB62C-2887-4AC1-B493-B366E344A94E}|MvcBookStore.csproj|solutionrelative:views\\bookstore\\sptheonxb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 338,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutUser.cshtml",
+              "DocumentMoniker": "D:\\BackEnd\\ThucHanh\\MvcBookStore\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutUser.cshtml",
+              "ToolTip": "D:\\BackEnd\\ThucHanh\\MvcBookStore\\Views\\Shared\\_LayoutUser.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T14:53:32.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\BackEnd\\ThucHanh\\MvcBookStore\\Views\\BookStore\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookStore\\Details.cshtml",
+              "ToolTip": "D:\\BackEnd\\ThucHanh\\MvcBookStore\\Views\\BookStore\\Details.cshtml",
+              "RelativeToolTip": "Views\\BookStore\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T14:22:32.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BackEnd\\ThucHanh\\MvcBookStore\\Views\\BookStore\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookStore\\Index.cshtml",
+              "ToolTip": "D:\\BackEnd\\ThucHanh\\MvcBookStore\\Views\\BookStore\\Index.cshtml",
+              "RelativeToolTip": "Views\\BookStore\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T14:17:03.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SPTheochude.cshtml",
+              "DocumentMoniker": "D:\\BackEnd\\ThucHanh\\MvcBookStore\\Views\\BookStore\\SPTheochude.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookStore\\SPTheochude.cshtml",
+              "ToolTip": "D:\\BackEnd\\ThucHanh\\MvcBookStore\\Views\\BookStore\\SPTheochude.cshtml",
+              "RelativeToolTip": "Views\\BookStore\\SPTheochude.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T14:17:35.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SPTheoNXB.cshtml",
+              "DocumentMoniker": "D:\\BackEnd\\ThucHanh\\MvcBookStore\\Views\\BookStore\\SPTheoNXB.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookStore\\SPTheoNXB.cshtml",
+              "ToolTip": "D:\\BackEnd\\ThucHanh\\MvcBookStore\\Views\\BookStore\\SPTheoNXB.cshtml",
+              "RelativeToolTip": "Views\\BookStore\\SPTheoNXB.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T14:15:46.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\BackEnd\\ThucHanh\\MvcBookStore\\Content\\css\\style.css",
+              "RelativeDocumentMoniker": "Content\\css\\style.css",
+              "ToolTip": "D:\\BackEnd\\ThucHanh\\MvcBookStore\\Content\\css\\style.css",
+              "RelativeToolTip": "Content\\css\\style.css",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAkwGQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-01T09:56:10.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookStoreController.cs",
+              "DocumentMoniker": "D:\\BackEnd\\ThucHanh\\MvcBookStore\\Controllers\\BookStoreController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookStoreController.cs",
+              "ToolTip": "D:\\BackEnd\\ThucHanh\\MvcBookStore\\Controllers\\BookStoreController.cs",
+              "RelativeToolTip": "Controllers\\BookStoreController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:31:10.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 162,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
