@@ -90,13 +90,15 @@ h3 {
 
 #nav {
 	position: absolute;
-	padding: 9px;
-	padding-top: 30px;
+	font-size: 11px;
+	display: flex;
+	padding-top: 47px;
 	left: 519px;
 	top: 9px;
-	width: 224px;
+	width: 225px;
 	background-color: rgb(200, 0, 0);
 }
+
 .p-10
 {
 	padding-right: 10px;
